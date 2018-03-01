@@ -1,2 +1,2 @@
 rm
-it is a brance named feature1 & now!
+it is a brance named feature1 and now!
